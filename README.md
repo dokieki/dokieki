@@ -2,7 +2,7 @@
 
 ![visitors-counter](https://count.getloli.com/get/@dokieki?theme=rule34)
 <br>
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=dokieki&show_icons=true&theme=nord)
+![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lulz&show_icons=true&theme=nord)
 
 idk how I can introduce myself, so I'll write what I do in programming world
 
